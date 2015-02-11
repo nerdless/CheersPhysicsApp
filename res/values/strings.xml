@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cheers physics</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_question1">Falling or Rising?</string>
+    <string name="Q1c1">Rising</string>
+    <string name="Q1c2">Falling</string>
+    <string name="title_activity_question2">Type of glass</string>
+    <string name="maintext">You may enjoy a beer in the evening or an ale over a good tale… but have you ever thought about what goes into making your pint?\n From generating the right amount of bubbles to extracting the best flavours, brewing involves a lot of physics. So although it may be wet and cold outside, there\'s still reason to raise a glass and say \"cheers physics!\".</string>
+    <string name="Q2c1">Beer prefers a pint jug</string>
+    <string name="Q2c2">It depends on the beer</string>
+    <string name="Q2c3">It doesn\'t matter</string>
+    <string name="title_activity_question3">How Much CO2</string>
+    <string name="Q3c1">One pint</string>
+    <string name="Q3c2">Three quarters of a pint</string>
+    <string name="Q3c3">Two and a half pints</string>
+    <string name="title_activity_question4">Why Bumpy Bottom</string>
+    <string name="Q4c1">Makes the bottle stronger</string>
+    <string name="Q4c2">Makes the bottle easier to recycle</string>
+    <string name="Q4c3">Makes them easier to transport</string>
+
+</resources>
